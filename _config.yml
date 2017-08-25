@@ -11,6 +11,14 @@ style: styles-3
 #style: styles-5
 #style: styles-6
 
+#Sections
+#Decide which sections to include in your resume
+resume_section_profile:       true
+resume_section_experience:    true
+resume_section_education:     true
+resume_section_projects:      false
+resume_section_skills:        true
+
 
 #Profile information
 name: Austin Brooks

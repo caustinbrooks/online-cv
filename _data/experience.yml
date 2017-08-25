@@ -1,12 +1,14 @@
 #Jobs
 #Coca-Cola North America
 - company: Coca-Cola North America
+  location: Atlanta, Ga
   position: Current Year Sourcing Analyst & Developer
   duration: April 2016 &mdash; August 2016
   summary: Description here
 
 #Coca-Cola Refreshments
 - company: Coca-Cola Refreshments
+  location: Atlanta, Ga
   position: Mid-Term Supply Planning Co-Op
   duration: January 2014 &mdash; December 2015
   summary: Description Here

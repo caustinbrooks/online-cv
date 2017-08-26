@@ -49,10 +49,19 @@
                     
                 </ul>
             </div><!--//contact-container-->
-           {% include education.html %}
-           {% include language.html %}
-           {% include interests.html %}
-           {% include about.html %}
+           {% if site.resume_section_education %}
+              {% include education.html %}
+           {% endif %}
+           {% if site.resume_section_language %}
+              {% include language.html %}
+           {% endif %}
+           {% if site.resume_section_interests %}
+              {% include interests.html %}
+           {% endif %}
+           {% if site.resume_section_about %}
+              {% include about.html %}
+           {% endif %}
+
         
             
         </div><!--//sidebar-wrapper-->

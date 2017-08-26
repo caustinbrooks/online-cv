@@ -16,10 +16,10 @@ baseurl: '/online-cv' #change it according to your repository name
 resume_section_profile:       true
 resume_section_experience:    true
 resume_section_education:     true
-resume_section_projects:      true
+resume_section_projects:      false
 resume_section_skills:        true
 resume_section_language:      false
-resume_section_interests:     true
+resume_section_interests:     false
 resume_section_about:         true
 
 #Profile information

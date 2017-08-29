@@ -32,7 +32,7 @@ email: c[dot]austin[dot]brooks[at]gatech[dot]edu
 phone: N/A
 website: austinbrooks.pro #do not add http://
 linkedin: caustinbrooks
-github: caustinbrooks
-twitter: '@caustinbrooks'
+github:                       false #caustinbrooks
+twitter:                      false #'@caustinbrooks'
 
 #Update all the sections by editing the files inside _includes folder.
